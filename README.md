@@ -36,7 +36,7 @@ WebSockets · JWT · Authentication & Authorization
 
 ### Databases
 
-PostgreSQL · MongoDB · SQLite 
+PostgreSQL · MongoDB · SQLite · MongoDB 
 
 ### Infrastructure & Tools
 
